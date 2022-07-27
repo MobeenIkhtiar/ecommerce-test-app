@@ -1,0 +1,42 @@
+.serachMain{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    background:blue;
+    padding:10px 0;
+}
+.inputFild{
+    width:300px;
+    height:40px;
+    border-radius:5px;
+    border:1px solid #ccc;
+    padding:0 10px;
+    font-size:16px;
+    font-family: 'Merriweather', serif;
+}
+.homePageMain{
+    display:flex;
+    justify-content:center;
+    
+   
+}
+.sidebarMain{
+    width:25%;
+    height:100vh;
+    background-color: blue;
+}
+.sidebarInner{
+    margin-top:50px;
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    align-items:center;
+}
+.checkTxt{
+    font-size:20px;
+    font-family: 'Merriweather', serif;
+    color:white;
+}
+.pageMain{
+    width:75%;
+}
